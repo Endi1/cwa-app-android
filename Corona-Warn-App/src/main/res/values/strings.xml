@@ -128,7 +128,7 @@
     ###################################### -->
 
     <!-- XTXT: risk card - no contact yet -->
-    <string name="risk_card_body_contact">"No exposures up to now"</string>
+    <string name="risk_card_body_contact">"No exposures up to now."</string>
     <!-- XTXT: risk card - number of contacts for one or more -->
     <plurals name="risk_card_body_contact_value">
         <item quantity="one">"%1$s exposure"</item>
